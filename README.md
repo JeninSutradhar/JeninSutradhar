@@ -1,8 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on Bevy Game Engine<br><br>🌱 I’m currently learning Data Science and Network Security
 
-
-## 🌐 Socials:
+### 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/jeninsutradhar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@jeninsutradhar) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/JeninSutradhar/)
 
 # 💻 Tech Stack:
